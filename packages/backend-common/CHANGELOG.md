@@ -1,5 +1,13 @@
 # @backstage/backend-common
 
+## 0.13.2-next.1
+
+### Patch Changes
+
+- b7436743cb: Added the GerritUrlReader that implements "readUrl".
+- Updated dependencies
+  - @backstage/integration@1.1.0-next.1
+
 ## 0.13.2-next.0
 
 ### Patch Changes

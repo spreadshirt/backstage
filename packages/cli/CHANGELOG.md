@@ -1,5 +1,15 @@
 # @backstage/cli
 
+## 0.16.1-next.1
+
+### Patch Changes
+
+- c54ce828bd: build(deps): bump `eslint-plugin-jest` from 25.3.4 to 26.1.2
+- f151dfee5a: build(deps): bump `eslint-webpack-plugin` from 2.6.0 to 3.1.1
+- 7e7ba704be: build(deps): bump `@spotify/eslint-config-base` from 12.0.0 to 13.0.0
+- ecd72391fb: build(deps): bump `@spotify/eslint-config-typescript`
+- 5b3079694e: Stop logging "Stopped watcher" when shutting down the development backend.
+
 ## 0.16.1-next.0
 
 ### Patch Changes
