@@ -28,7 +28,7 @@ import { TestDatabaseId, TestDatabases } from '@backstage/backend-test-utils';
 import { TaskScheduler } from '@backstage/backend-tasks';
 import waitForExpect from 'wait-for-expect';
 
-jest.useFakeTimers();
+jest.useFakeTimers('legacy');
 
 const testFactRetriever: FactRetriever = {
   id: 'test_factretriever',
